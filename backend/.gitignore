@@ -1,0 +1,10 @@
+# User uploaded files
+backend/uploads/
+uploads/
+.env
+.env
+.env.local
+node_modules/
+.next/
+__pycache__/
+uploads/
